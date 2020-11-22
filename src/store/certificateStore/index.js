@@ -29,7 +29,7 @@ const actions = {
       .then(function(response) {
         console.log(response);
         commit("setSuccess", true);
-        router.push({ name: 'Permiso', params: {respose: response }})
+        router.push({ name: 'Permiso', params: {respose: response.data }})
       })
       .catch(function(error) {
         commit("setError", true);
