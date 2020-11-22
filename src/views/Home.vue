@@ -37,7 +37,7 @@
           emergencia sanitaria que enfrenta Chile por el Coronavirus (COVID-19).
           <br/>
           <br/>
-          Su cuidas tu salud, nos cuidas a todos.
+          Si cuidas tu salud, nos cuidas a todos.
         </span>
         <v-row class="my-10 " justify="center">
           <v-btn rounded dark to="/app" color="#05007f">
