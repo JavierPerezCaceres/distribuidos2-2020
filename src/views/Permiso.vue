@@ -17,7 +17,7 @@
             class="font-weight-normal justify-end"
             style="color: #05007f"
           >
-            Documento N° : <b>{{ respose.document }}15</b>
+            Documento N° : <b>{{ respose.id }}</b>
           </v-card-title>
           <img
             class="mx-5 mt-5"
