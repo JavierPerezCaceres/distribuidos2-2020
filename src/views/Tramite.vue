@@ -18,6 +18,7 @@
           <v-card-title class="title font-weight-normal justify-center"
             >Ingrese sus datos para generar su permiso</v-card-title
           >
+          <span class="title font-weight-light justify-start"> Todos los permisos generados tienen hora de comienzo <b>15 minutos</b> despues de la generación y una duración de <b>3 horas</b>.</span>
 
           <v-divider class="my-2 pb-3"></v-divider>
 
