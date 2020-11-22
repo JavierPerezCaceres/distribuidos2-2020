@@ -110,7 +110,7 @@
             ></v-autocomplete>
 
             <v-btn block color="primary" :disabled="!valid" :loading="loading" @click="submit">
-              Generar certificado
+              Generar permiso
             </v-btn>
           </v-form>
         </v-card>
